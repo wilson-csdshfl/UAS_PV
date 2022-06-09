@@ -1,0 +1,12 @@
+C:\Users\slim\Documents\SharpDevelop Projects\UAS_PV\UAS_PV\bin\Debug\UAS_PV.exe
+C:\Users\slim\Documents\SharpDevelop Projects\UAS_PV\UAS_PV\bin\Debug\UAS_PV.pdb
+C:\Users\slim\Documents\SharpDevelop Projects\UAS_PV\UAS_PV\obj\Debug\UAS_PV.csprojResolveAssemblyReference.cache
+C:\Users\slim\Documents\SharpDevelop Projects\UAS_PV\UAS_PV\obj\Debug\UAS_PV.MainForm.resources
+C:\Users\slim\Documents\SharpDevelop Projects\UAS_PV\UAS_PV\obj\Debug\UAS_PV.csproj.GenerateResource.Cache
+C:\Users\slim\Documents\SharpDevelop Projects\UAS_PV\UAS_PV\obj\Debug\UAS_PV.exe
+C:\Users\slim\Documents\SharpDevelop Projects\UAS_PV\UAS_PV\obj\Debug\UAS_PV.pdb
+C:\Users\slim\Documents\SharpDevelop Projects\UAS_PV\UAS_PV\obj\Debug\UAS_PV.Edit_Connection.resources
+C:\Users\slim\Documents\SharpDevelop Projects\UAS_PV\UAS_PV\obj\Debug\UAS_PV.readme.resources
+C:\Users\slim\Documents\SharpDevelop Projects\UAS_PV\UAS_PV\obj\Debug\UAS_PV.Dashboard.resources
+C:\Users\slim\Documents\SharpDevelop Projects\UAS_PV\UAS_PV\obj\Debug\UAS_PV.Result.resources
+C:\Users\slim\Documents\SharpDevelop Projects\UAS_PV\UAS_PV\obj\Debug\UAS_PV.Information.resources
